@@ -1,4 +1,6 @@
-# Mirugo
+# Particle Gravity Simulator
+
+Using pygame to render 'particles' which when generated, will bounce around while their mass and relative distance determines the force acting on all other particles. 
 
 Currently implemented:
   Basic gravity calculations based on mass, and a O(n^2) method for updating gravity on particles.
